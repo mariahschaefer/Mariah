@@ -1,3 +1,27 @@
 // Place all the styles related to the simple_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+h1 {
+padding-top: 5%;
+font-family: Futura, Helvetica, Arial, sans-serif;
+text-align: center;
+}
+
+h2 {
+font-family: Futura, Helvetica, Arial, sans-serif;
+text-align: center;
+}
+
+nav li {
+font-size: 1.3em;
+color: black;
+letter-spacing: 0.08em;
+display: inline;
+}
+
+nav ul {
+	padding: 2px 8px 2px;
+	font-size: 0.8em;
+	position: fixed;
+	top: 0;
+}
